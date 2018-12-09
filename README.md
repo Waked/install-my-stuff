@@ -1,5 +1,5 @@
 # Install my stuff!
-This is a project to create platform-specific scripts that will install everything that I usually need to work and have fun.
+Install my stuff is a project to create platform-specific scripts that will install everything that I usually need to work and have fun.
 
 The primary focus is to make this portable and timeless as much as possible. That means prioritizing official system repos with official package manager, over third-party repos, over additional package managers, over curling archives and so on.
 
