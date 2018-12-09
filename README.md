@@ -12,5 +12,5 @@ The actual order would look like this:
 
 To use this repository to provision your personal machine, simply clone it on your fresh machine (all Linux and macOS should have a Git client) and execute the script tailored for the system you're on.
 
-# License
+## License
 This project is licensed under GNU GPLv3 license. Use it, change it, do not sell it.
