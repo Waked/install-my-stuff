@@ -17,6 +17,7 @@ package_list=(
   sublime-text
   docker-ce
   virtinst
+  maven
 )
 sudo apt update
 for package in "${package_list[@]}"; do
