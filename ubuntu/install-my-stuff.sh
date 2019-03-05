@@ -6,7 +6,7 @@ home="$HOME"
 script_dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null && pwd )"
 
 # Install packages
-source ${script_dir}/packages.sh
+source ${script_dir}/install-apt-packages.sh
 
 # Copy the init file and add to .bashrc
 init_path=${home}/.awesome_init
