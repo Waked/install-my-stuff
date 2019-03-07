@@ -18,6 +18,7 @@ package_list=(
   docker-ce
   virtinst
   maven
+  gimp
 )
 sudo apt update
 for package in "${package_list[@]}"; do
